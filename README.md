@@ -36,7 +36,9 @@ Se entrenó el modelo y nuestro score obtuvo un 94.73684 de efectividad
 al igual se obtuvo una matriz de confusión el cual nos da buenos resultados en los valores verdaderos 
 
 [[14  0  0]
+
  [ 0 11  1]
+
  [ 0  1 11]]
  
  
