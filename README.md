@@ -1,5 +1,5 @@
 # iris_regresion
-## Modelo de aprendizaje supervisado: Clasificador de iris
+# Modelo de aprendizaje supervisado: Clasificador de iris
 
 Se hace repositorio para ejemplificar el modelo de ML de regresion logisitica multinominal
 S se enfonca en la clasificacion de la flores iris,
@@ -15,7 +15,7 @@ Python
 -Sklearn
 -Kaggle
 
-## Fuente:
+## Fuente de datos:
 https://www.kaggle.com/datasets/uciml/iris
 
 ## Objetivo:
