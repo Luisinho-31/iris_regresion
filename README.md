@@ -40,6 +40,10 @@ al igual se obtuvo una matriz de confusión el cual nos da buenos resultados en 
  [ 0 11  1]
 
  [ 0  1 11]]
+
+ ### Autor
+ Luis Fernando Castillo
+ https://github.com/Luisinho-31
  
  
    
