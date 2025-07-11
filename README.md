@@ -18,6 +18,10 @@ Para esto se utilizaron las siguientes herramientas
 ## Fuente de datos:
 https://www.kaggle.com/datasets/uciml/iris
 
+## Dataset
+Se tiene un dataset de 150 elementos con 6 columnas 
+donde no hay elementos nulos ni 0s
+
 ## Objetivo:
 EL fin de este proyecto es realizar un modelo de clasificacion supervisado con el dataset
 de iris el cual contiene distintas caracterisitcas entre largo y ancho de pétalo y sépalo para distindas especies de flores
