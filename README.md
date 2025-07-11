@@ -6,8 +6,7 @@ S se enfonca en la clasificacion de la flores iris,
 tomando en cuenta ciertas condiciones, desde el tamaño del pétalo y del sépalo, tanto a lo largo como a lo ancho
 
 Para esto se utilizaron las siguientes herramientas
-	
-	-Python
+  -Python
  -Pandas
  -Numpy
  -Matplotlib
