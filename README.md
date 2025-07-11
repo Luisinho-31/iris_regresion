@@ -6,13 +6,14 @@ S se enfonca en la clasificacion de la flores iris,
 tomando en cuenta ciertas condiciones, desde el tamaño del pétalo y del sépalo, tanto a lo largo como a lo ancho
 
 Para esto se utilizaron las siguientes herramientas
-  -Python
- -Pandas
- -Numpy
- -Matplotlib
- -Google 
- -Sklearn
- -Kaggle
+- Python 
+- Pandas
+- Numpy
+- Matplotlib
+- Google Colab
+- Sklearn
+- Dataset histórico del S&P 500
+- Kaggle
 
 ## Fuente de datos:
 https://www.kaggle.com/datasets/uciml/iris
